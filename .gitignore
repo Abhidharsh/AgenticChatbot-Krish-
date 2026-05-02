@@ -1,1 +1,9 @@
 .venv
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Python cache folders
+__pycache__/
