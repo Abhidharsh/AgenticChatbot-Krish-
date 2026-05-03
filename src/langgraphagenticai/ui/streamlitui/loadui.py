@@ -35,7 +35,7 @@ class LoadStreamlistUI:
                     st.warning("Please enter your OPENAI API key to proceed.")
 
             ## Usecase selection
-            self.user_controls["seelcted_usecase"] = st.selectbox(
+            self.user_controls["selected_usecase"] = st.selectbox(
                 "Select Usecases", usecase_options
             )
 
