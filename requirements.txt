@@ -5,6 +5,7 @@ altair==6.1.0
 annotated-types==0.7.0
 anyio==4.13.0
 attrs==26.1.0
+black==26.3.1
 blinker==1.9.0
 cachetools==7.0.6
 certifi==2026.4.22
@@ -36,6 +37,7 @@ langchain-core==1.3.2
 langchain-groq==1.1.2
 langchain-openai==1.2.1
 langchain-protocol==0.0.12
+langchain-tavily==0.2.18
 langchain-text-splitters==1.1.2
 langgraph==1.1.10
 langgraph-checkpoint==4.0.3
@@ -53,7 +55,9 @@ orjson==3.11.8
 ormsgpack==1.12.2
 packaging==26.0
 pandas==3.0.2
+pathspec==1.1.1
 pillow==12.2.0
+platformdirs==4.9.6
 propcache==0.4.1
 protobuf==7.34.1
 pyarrow==24.0.0
@@ -63,6 +67,7 @@ pydantic_core==2.46.3
 pydeck==0.9.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
+pytokens==0.4.1
 PyYAML==6.0.3
 referencing==0.37.0
 regex==2026.4.4
